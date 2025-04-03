@@ -1,0 +1,17 @@
+{
+    "name": "iragh/hack-trin-xvii",
+    "autoload": {
+        "psr-4": {
+            "Iragh\\HackTrinXvii\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "raghavtheking",
+            "email": "I.raghavendra.thakur@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
